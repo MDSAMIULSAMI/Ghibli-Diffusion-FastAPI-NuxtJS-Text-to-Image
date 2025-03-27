@@ -1,0 +1,1 @@
+### This project is a Ghibli Image Generator application built with FastAPI for the backend and a NuxtJS. The purpose of this application is to allow users to input a text prompt, which is then used to generate an image using a Stable Diffusion model fine-tuned for Ghibli-style images.
