@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+diffusers
+torch
+pydantic
+uuid
+python-dotenv
+loguru
+aiohttp
